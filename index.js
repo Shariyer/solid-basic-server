@@ -18,7 +18,7 @@ app.get("/courses", (req, res) => {
   res.send(allCourses);
 });
 const courses = require("./data/categories.json");
-app.get("/courses/singleCourse:id", (req, res) => {
+app.get("/courses/singleCourse/:id", (req, res) => {
   const reqId = req.params.id;
   const singleCourse = courses.find((c) => c.id === reqId);
   res.send(singleCourse);
