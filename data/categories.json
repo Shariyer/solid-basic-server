@@ -5,7 +5,14 @@
         "description": "C helps you to understand the internal architecture of a computer, how computer stores and retrieves information.After learning C, it will be much easier to learn other programming languages like Java, Python, etc.Opportunity to work on open source projects. Some of the largest open-source projects such as Linux kernel, Python interpreter, SQLite database, etc. are written in C programming.Procedural Language - Instructions in a C program are executed step by step.Portable - You can move C programs from one platform to another, and run it without any or minimal changes.C programming is faster than most programming languages like Java, Python,etc.C programming can be used to develop operating systems, embedded systems, databases, and so on.",
         "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPGGOif2hN0ojHqVg2OZDQgERhHVD70MoaDg&usqp=CAU",
         "course_author": "Poroma Afroz",
-        "course_price": "free"
+        "course_price": "Free",
+        "premium": {
+            "access": "2 years All Advance Courses Access",
+            "support": "Live Support all day",
+            "advanceCourse": "You will get All Advance Concepts",
+            "coding": "You can learn competitive coding approach",
+            "premium_price": "10$/month"
+        }
     },
     {
         "id": "02",
@@ -13,7 +20,14 @@
         "description": "Multi-paradigm Language - C++ supports at least seven different styles of programming. Developers can choose any of the styles.General Purpose Language - You can use C++ to develop games, desktop apps, operating systems,and so on.Speed - Like C programming, the performance of optimized C++ code is exceptional.Object-oriented - C++ allows you to divide complex problems into smaller sets by using objects.C++ is used to develop games, desktop apps, operating systems, browsers, and so on because of its performance.After learning C++, it will be much easier to learn other programming languages like Java, Python, etc.C++ helps you to understand the internal architecture of a computer, how computer stores and retrieves information.",
         "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAp7qsjXPsV3Ug1CYFg4I5GFdsCqR5kQsO6g&usqp=CAU",
         "course_author": "Samir Salman",
-        "course_price": "free"
+        "course_price": "Free",
+        "premium": {
+            "access": "2 years All Advance Courses Access",
+            "support": "Live Support all day",
+            "advanceCourse": "You will get All Advance Concepts",
+            "coding": "You can learn competitive coding approach",
+            "premium_price": "10$/month"
+        }
     },
     {
         "id": "03",
@@ -21,7 +35,14 @@
         "description": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.7 Common & Practical Uses for Python.1. AI & Machine Learning.2. Data Analytics.3. Web Development.4. Search Engine Optimisation (SEO).5. Blockchain.6. Game Development.7. Automation.",
         "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5A5Y_tDsi3VmoAt0lFB5Z1ZrjVC_oAZv_uA&usqp=CAU",
         "course_author": "Mazharul Islam",
-        "course_price": "free"
+        "course_price": "Free",
+        "premium": {
+            "access": "2 years All Advance Courses Access",
+            "support": "Live Support all day",
+            "advanceCourse": "You will get All Advance Concepts",
+            "coding": "You can learn competitive coding approach",
+            "premium_price": "10$/month"
+        }
     },
     {
         "id": "04",
@@ -29,7 +50,14 @@
         "description": "C# is a modern, general-purpose programming language that can be used to perform a wide range of tasks and objectives that span over a variety of professions. C# is primarily used on the Windows .NET framework, although it can be applied to an open source platform. This highly versatile programming language is an object-oriented programming language (OOP)—which isn't very common—and fairly new to the game, yet already a reliable crowd pleaser.Like other general-purpose programming languages, C# can be used to create a number of different programs and applications: mobile apps, desktop apps, cloud-based services, websites, enterprise software and games. Lots and lots of games. While C# is remarkably versatile, there are three areas in which it is most commonly used.",
         "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZFPJ3NWeuA3GmxQMsS1yJr3p0uG5DKn34Q&usqp=CAU",
         "course_author": "Rafiul Islam Roctim",
-        "course_price": "free"
+        "course_price": "Free",
+        "premium": {
+            "access": "2 years All Advance Courses Access",
+            "support": "Live Support all day",
+            "advanceCourse": "You will get All Advance Concepts",
+            "coding": "You can learn competitive coding approach",
+            "premium_price": "10$/month"
+        }
     },
     {
         "id": "05",
@@ -37,7 +65,14 @@
         "description": "Platform independent - We can write Java code in one platform (operating system) and run on another platform without any modification.Object-oriented - Java is an object-oriented language. This helps to make our Java code more flexible and reusable.Speed - Well optimized Java code is nearly as fast as lower-level languages like C++ and much faster than Python, PHP, etc.Java is a platform-independent language. We can write Java code in one platform and run it in another platform.Java is a general-purpose language with a wide range of applications. It's used for developing mobile and desktop applications, big data processing, embedded systems, and so on.Java is an object-oriented programming language. It helps in code reusability.",
         "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9n9ozCS1_vOLTEtwZCdf8hxJcwnthL-hhwg&usqp=CAU",
         "course_author": "Shahrier Shahas",
-        "course_price": "free"
+        "course_price": "Free",
+        "premium": {
+            "access": "2 years All Advance Courses Access",
+            "support": "Live Support all day",
+            "advanceCourse": "You will get All Advance Concepts",
+            "coding": "You can learn competitive coding approach",
+            "premium_price": "10$/month"
+        }
     },
     {
         "id": "06",
@@ -45,6 +80,13 @@
         "description": "Database is simply a container that helps organize data in a format or constructive manner. In a database, data is stored in a rational way. Now, let's take an example that would make is help understand it better. For instance, our contact list in cell phones. If we think a bit into it, then we realize the contact list is a database with data in it in an organized manner. Then we sort by the letters search the names from the list. Thus, we perform query execution on the list to retrieve the records we want. This is the flexibility a simple database provides us. It makes it easier to:Query Data,Update Data,Insert New Data,Delete Data",
         "Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-P1D7fhpyKou09-nDXdc9-ZFTZq9sNcmE6w&usqp=CAU",
         "course_author": "Bariul Islam",
-        "course_price": "free"
+        "course_price": "Free",
+        "premium": {
+            "access": "2 years All Advance Courses Access",
+            "support": "Live Support all day",
+            "advanceCourse": "You will get All Advance Concepts",
+            "coding": "You can learn competitive coding approach",
+            "premium_price": "10$/month"
+        }
     }
 ]
