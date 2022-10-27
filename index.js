@@ -24,7 +24,7 @@ app.get("/courses/singleCourse/:id", (req, res) => {
   res.send(singleCourse);
 });
 const premiumContent = require("./data/categories.json");
-app.get("/courses/premium/:id", (req, res) => {
+app.get("/courses/checkout/:id", (req, res) => {
   const reqId = req.params.id;
   const premiumService = courses.find((c) => c.id === reqId);
   res.send(premiumService);
