@@ -23,6 +23,12 @@ app.get("/courses/singleCourse/:id", (req, res) => {
   const singleCourse = courses.find((c) => c.id === reqId);
   res.send(singleCourse);
 });
+const premiumContent = require("./data/categories.json");
+app.get("/courses/premium/:id", (req, res) => {
+  const reqId = req.params.id;
+  const premiumService = courses.find((c) => c.id === reqId);
+  res.send(premiumService);
+});
 
 // app listening at port 5000
 app.listen(port, (req, res) => {
